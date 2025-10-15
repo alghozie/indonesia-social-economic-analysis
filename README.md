@@ -14,7 +14,7 @@ Analisis dilakukan untuk mengidentifikasi seberapa besar efektivitas realisasi a
 Melalui analisis dan visualisasi berbasis data, proyek ini diharapkan dapat:
 -  Menggambarkan distribusi realisasi TKDD di setiap provinsi.  
 -  Menemukan hubungan antara anggaran, kemiskinan, dan IPM.  
--  Memberikan **rekomendasi kebijakan berbasis data** untuk mendukung pemerataan pembangunan.  
+-  Memberikan rekomendasi kebijakan berbasis data untuk mendukung pemerataan pembangunan.  
 -  Mendukung upaya Indonesia menuju pembangunan berkelanjutan dan merata.
 
 ---
