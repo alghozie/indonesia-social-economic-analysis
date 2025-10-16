@@ -35,18 +35,18 @@ Melalui analisis dan visualisasi berbasis data, proyek ini diharapkan dapat:
 ## Langkah Menjalankan Proyek
 
 1. **Buka file notebook di Google Colab**
-   - Upload file `TECHFEST.ipynb` dan `Dataset Lomba Data Analytics TECHFEST 2025.xlsx` ke Google Drive.  
+   - Upload file `TECHFEST.ipynb` dan `Dataset Lomba Data Analytics TECHFEST 2025.xlsx` ke Google Drive.
    - Pastikan path dataset sudah benar di dalam notebook.
 
-2. **Mount Google Drive**
+3. **Mount Google Drive**
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
 
-3. **Atur Path Dataset**
+4. **Atur Path Dataset**
    DATA_PATH = '/content/drive/MyDrive/TECHFEST/Dataset Lomba Data Analytics TECHFEST 2025.xlsx'
 
-4. **Jalankan seluruh sel**
+5. **Jalankan seluruh sel**
    Notebook akan melakukan pembersihan data, analisis statistik, dan menghasilkan berbagai visualisasi otomatis.
 
 | No | Visualisasi                                              | Deskripsi                                                                |
